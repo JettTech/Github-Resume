@@ -1,14 +1,11 @@
-# Lisa Jetton
-- - - -
 # **Lisa Jetton**
 ## **Software Engineer / JavaScript Developer**
+
 Austin, TX 78732
 
 512-758-3747
 
 [ldjetton21@gmail.com](ldjetton21@gmail.com)
-
-Visit my online portfolio [here](http://lisajetton.com)!
 
 [Portfolio](http://lisajetton.com)
 
@@ -57,8 +54,6 @@ Visit my online portfolio [here](http://lisajetton.com)!
 
 - - - -
  ## Education: ##
- - - - -
-## **Education**
 
 ### **University of Texas at Austin:  July 2017 - January 2018**
 >Professional Coding Bootcamp
@@ -81,19 +76,19 @@ Visit my online portfolio [here](http://lisajetton.com)!
 ## **Relevant Experience**
 
 ### **3P Hackathon by McCombs School of Business - Austin, TX: February 16 - 17, 2018**
-** Front-End Web Developer **
->Front-End Web Developer in a group of three Developers
+**Front-End Web Developer**
+>Front-End Web Developer in a group of three Developers.
 >Developed Green Building, an interactive App that aims to encourage awareness of the Austin Energy Green Building Organization and its impact on local and global living, as well as support challenges that incentive self-reporting of energy use data.
 >Built with JavaScript, Node, Express.js, Bootstrap, and HTML5/CSS3.
 
 ### **Women Who Code Diversity Hackathon - Austin, TX: September 6 - 8, 2017**
-** Developer and Winner of the Zoe Quinn Obstacles Overcome Award **
->Full-Stack Web Developer in a group of four Developers
+**Developer and Winner of the Zoe Quinn Obstacles Overcome Award**
+>Full-Stack Web Developer in a group of four Developers.
 >Developed Taco Quest, a React and Firebase App with a mission to help democratize rating of local taquerias by facilitating discovery and hosting game “challenges” to incentivize dining visits.
 >Built with React, JavaScript, Firebase and HTML5/CSS3.
 
 ### **Sangita Charitable Trust - Chennai, India: January - April, 2006**
-** Publicity Assitant *
+**Publicity Assitant**
 >Developed a ten-minute DVD presentation as a creative solution for Sangita’s digital marketing goals in 2006.  This presentation was used to gain support at international conferences for two years.
 
 - - - -
@@ -108,16 +103,23 @@ Visit my online portfolio [here](http://lisajetton.com)!
 >Quickly learned Federal banking regulations as well as Chase policies and procedures to ensure compliant and efficient banking transactions.
 >Assisted with translations in English, French, and Spanish. 
 >Received highest classification for performance evaluation in 2015 and 2016 and promotion to Personal Banker.
-
-- - - -
- ## Awards Won ##
- - Zoe Quinn Award: Presented by Women Who Code at the 3rd Anuual Diversity Hackathon.
  
  - - - -
- ## Clubs, Languages, and International Experiernce ##
-  - Active Club Memberships: Women Who Code, Chicktech, Open Austin.
-  - Current Languages: English, French, and Spanish.
-  - International Experience: Lived and studied in France for 3 years. Organized fundraisers to benefit orphans while in Chennai, India.  Traveled throughout Morocco, Jordan, Israel, India, and across Europe.
+## Clubs, Languages, and International Experiernce ##
+>Active Club Memberships:
+ >- Women Who Code
+ >- Chicktech
+ >- Open Austin
+>Current Languages: 
+ >- English
+ >- French
+ >- Spanish
+>International Experience: 
+ >- Lived and studied in France for 3 years. 
+ >- Organized fundraisers to benefit orphans while in Chennai, India.  
+ >- Traveled throughout Morocco, Jordan, Israel, India, and across Europe.
   
- 
+ - - - -
+## Awards Won ##
+>Zoe Quinn Award: Presented by Women Who Code at the 3rd Anuual Diversity Hackathon.
  
