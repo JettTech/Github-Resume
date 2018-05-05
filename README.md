@@ -14,7 +14,7 @@ Austin, TX 78732 | Ldjetton21@gmail.com | 512-758-3747
 ### **[CMS Construction.Co](https://github.com/JettTech/cmsConstructionCart)**
 - Sole Developer. 
 
-- Full Stack Content Management System (CMS) application that simulates an online retail experience for a constrution company's adminstrators and clients. Allows users to shop inventory, select and add items to their cart, modify items in their cart, and utlimately purchase their items through the Paypal API.
+- Full Stack Content Management System (CMS) application that simulates an online retail experience for a constrution company's adminstrators and clients. Provides administrators with options to modify inventory and web-page display, and allows users to shop inventory, select and add items to their cart, modify items in their cart, and utlimately purchase their items through the Paypal API.
 
 - App built with JavaScript, MongoDB, Mongoose, Express.js, Node.js, HTML5/CSS3, Bootstrap, Passport API, and Paypal API.
 
