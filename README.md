@@ -1,5 +1,5 @@
 - - - -
-# **Lisa Jetton**
+# **LISA JETTON**
 ## **Full Stack Developer**
 
 [Portfolio](http://lisajetton.com) | [Github](https://github.com/JettTech/) | [LinkedIn](https://www.linkedin.com/in/lisa-jetton/)
