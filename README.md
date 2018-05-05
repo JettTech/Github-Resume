@@ -2,9 +2,9 @@
 # **Lisa Jetton**
 ## **Full Stack Developer**
 
-Austin, TX 78732 | Ldjetton21@gmail.com. | 512-758-3747
-
 [Portfolio](http://lisajetton.com) | [Github](https://github.com/JettTech/) | [LinkedIn](https://www.linkedin.com/in/lisa-jetton/)
+
+Austin, TX 78732 | Ldjetton21@gmail.com. | 512-758-3747
 
 - - - -
 - - - -
@@ -102,17 +102,17 @@ Austin, TX 78732 | Ldjetton21@gmail.com. | 512-758-3747
  
  - - - -
 ## Clubs, Languages, and International Experiernce ##
->Club Memberships:
+- Club Memberships:
  >- Women Who Code
  >- Chicktech
  >- Open Austin
  
->Languages: 
+- Languages: 
  >- English
  >- French
  >- Spanish
  
->International Experience: 
+- International Experience: 
  >- Lived and studied in France for 3 years. 
  >- Organized fundraisers to benefit orphans while in Chennai, India.  
  >- Traveled throughout Morocco, Jordan, Israel, India, and across Europe.
