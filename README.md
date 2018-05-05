@@ -1,6 +1,5 @@
 - - - -
-### **Lisa Jetton**
-- - - -
+# **Lisa Jetton**
 ## **Full Stack Developer**
 
 
