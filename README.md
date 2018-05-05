@@ -1,6 +1,6 @@
 - - - -
 - - - -
-<h1 style="text-align: center;">**Lisa Jetton**</h1>
+<p style="text-align: center;">Lisa Jetton</p>
 ## **Full Stack Developer**
 
 Austin, TX 78732| [ldjetton21@gmail.com](ldjetton21@gmail.com) | 512-758-3747
