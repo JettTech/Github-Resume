@@ -1,6 +1,6 @@
 - - - -
 - - - -
-# **Lisa Jetton**
+<h1 style="text-align: center;">**Lisa Jetton**</h1>
 ## **Full Stack Developer**
 
 Austin, TX 78732| [ldjetton21@gmail.com](ldjetton21@gmail.com) | 512-758-3747
@@ -12,7 +12,7 @@ Austin, TX 78732| [ldjetton21@gmail.com](ldjetton21@gmail.com) | 512-758-3747
  ## About Me ##
  
 >Full Stack Developer, experienced Personal Banker, and recent graduate from the University of Texas at Austin's Coding Bootcamp. Enjoys creative challenges, new ideas, and working together with passionate people to build new realities and develop dreams. 
-- - - -
+
 - - - -
  ## Featured Applications: ##
  
@@ -103,17 +103,17 @@ Austin, TX 78732| [ldjetton21@gmail.com](ldjetton21@gmail.com) | 512-758-3747
  
  - - - -
 ## Clubs, Languages, and International Experiernce ##
->Club Memberships:
++Club Memberships:
  - Women Who Code
  - Chicktech
  - Open Austin
  
->Languages: 
++Languages: 
  - English
  - French
  - Spanish
  
->International Experience: 
++International Experience: 
  - Lived and studied in France for 3 years. 
  - Organized fundraisers to benefit orphans while in Chennai, India.  
  - Traveled throughout Morocco, Jordan, Israel, India, and across Europe.
