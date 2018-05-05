@@ -1,13 +1,7 @@
 # **Lisa Jetton**
 ## **Software Engineer / JavaScript Developer**
 
-Austin, TX 78732
-
-512-758-3747
-[ldjetton21@gmail.com](ldjetton21@gmail.com)
-[Portfolio](http://lisajetton.com)
-[Github](https://github.com/JettTech/)
-[LinkedIn](https://www.linkedin.com/in/lisa-jetton/)
+Austin, TX 78732| 512-758-3747 | ldjetton21@gmail.com](ldjetton21@gmail.com) | [Portfolio](http://lisajetton.com) | [Github](https://github.com/JettTech/) | [LinkedIn](https://www.linkedin.com/in/lisa-jetton/)
 
 - - - -
  ## Featured Applications: ##
@@ -18,13 +12,13 @@ Austin, TX 78732
 - Full Stack Content Management System (CMS) application that simulates an online retail experience for a constrution company's adminstrators and clients.
 
 - App built with:
->- Mongoose
->- Express
->- Node.js
->- Axios
->- JavaScript
->- HTML5/CSS3
->- Bootstrap
+>Mongoose
+>Express
+>Node.js
+>Axios
+>JavaScript
+>HTML5/CSS3
+>Bootstrap
 
 **Mavens and Mavericks:** 
 - Full-Stack Developer in group of four. 
@@ -32,15 +26,15 @@ Austin, TX 78732
 - Full Stack social media app that pairs mentors and mentees together to foster growth and help individuals discern how their personal abilities can improve a company or impact an industry throughout their career. Matching is completed through sorting logic based on a user’s career level, industry experience, and coding languages of choice.
 
 - App built with:
->- Mongoose
->- Express
->- React
->- Node.js
->- Axios
->- JavaScript ES6
->- HTML5/CSS3
->- Bootstrap
->- Materialize
+>Mongoose
+>Express
+>React
+>Node.js
+>Axios
+>JavaScript ES6
+>HTML5/CSS3
+>Bootstrap
+>Materialize
 
 **Star Wars React:**
 - Sole Developer. 
@@ -48,11 +42,11 @@ Austin, TX 78732
 - A memory game based in React. This game offers an assortment of pictures for the user to A memory game based in React. This game offers an assortment of pictures for the user to select; each time an image is selected, the arrangement of photos is reorganized. The goal is to click through the entire assortment of pictures without pressing the same picture twice. Can you do it? 
 
 - App built with:
->- React
->- JavaScript
->- JSX
->- React-Materialize
->- Materialize
+>React
+>JavaScript
+>JSX
+>React-Materialize
+>Materialize
 
 - - - -
  ## Education: ##
@@ -62,13 +56,10 @@ Austin, TX 78732
 
 - Awarded the Full Stack Developer Certificate: MERN Stack
 
->Experience writing JavaScript, jQuery, Node, Express, React, Handlebars, MySQL, MongoDB, Mongoose, AJAX, RESTful APIs, Security and Session Storage, HTML, CSS, Responsive Design, Boostrap, Materialize. Familiar with Heroku deployement, Git Commands, and Github Repositories.
+- Experienced in JavaScript, jQuery, Node, Express, React, Handlebars, MySQL, MongoDB, Mongoose, AJAX, RESTful APIs, Security and Session Storage, HTML, CSS, Responsive Design, Boostrap, Materialize. 
 
->Designed, built, and maintained web applications using JavaScript, Node.js, Express, AJAX, RESTful APIs, ReactJS, Handlebars, both SQL and non-SQL databases, responsive design, security authentication, and session storage
+- Familiar with Heroku deployement, Git Commands, and Github Repositories.
 
->Collaborated within multiple groups using agile methodologies, throughout project life cycles, from concept to production all while meeting project deadlines
-
->Implemented object oriented style programming, MVC frameworks, and other back-end technologies for data analysis applications while testing performance and user functionality
 
 ### **University of California at Davis: September 2007 - September 2012**
 **College of Letters and Science**
@@ -87,19 +78,21 @@ Austin, TX 78732
 
 ### **3P Hackathon by McCombs School of Business - Austin, TX: February 16 - 17, 2018**
 **Front-End Web Developer**
-- Front-End Web Developer in a group of three Developers.
 
 - Developed Green Building, an interactive App that aims to encourage awareness of the Austin Energy Green Building Organization and its impact on local and global living, as well as support challenges that incentive self-reporting of energy use data.
 
 - Built with JavaScript, Node, Express.js, Bootstrap, and HTML5/CSS3.
 
+- Front-End Web Developer in a group of three Developers.
+
 ### **Women Who Code Diversity Hackathon - Austin, TX: September 6 - 8, 2017**
-**Developer and Winner of the Zoe Quinn Obstacles Overcome Award**
-- Full-Stack Web Developer in a group of four Developers.
+**Full Stack Developer and Winner of the Zoe Quinn Obstacles Overcome Award**
 
 - Developed Taco Quest, a React and Firebase App with a mission to help democratize rating of local taquerias by facilitating discovery and hosting game “challenges” to incentivize dining visits.
 
 - Built with React, JavaScript, Firebase and HTML5/CSS3.
+
+- Full-Stack Web Developer in a group of four Developers.
 
 ### **Sangita Charitable Trust - Chennai, India: January - April, 2006**
 **Publicity Assitant**
@@ -121,22 +114,21 @@ Austin, TX 78732
  
  - - - -
 ## Clubs, Languages, and International Experiernce ##
->Club Memberships:
- >- Women Who Code
- >- Chicktech
- >- Open Austin
+- Club Memberships:
+ >Women Who Code
+ >Chicktech
+ >Open Austin
  
->Languages: 
- >- English
- >- French
- >- Spanish
+- Languages: 
+ >English
+ >French
+ >Spanish
  
->International Experience: 
- >- Lived and studied in France for 3 years. 
- >- Organized fundraisers to benefit orphans while in Chennai, India.  
- >- Traveled throughout Morocco, Jordan, Israel, India, and across Europe.
+- International Experience: 
+ >Lived and studied in France for 3 years. 
+ >Organized fundraisers to benefit orphans while in Chennai, India.  
+ >Traveled throughout Morocco, Jordan, Israel, India, and across Europe.
   
  - - - -
 ## Awards Won ##
 - Zoe Quinn Award: Presented by Women Who Code at the 3rd Anuual Diversity Hackathon.
- 
