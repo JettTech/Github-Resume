@@ -22,15 +22,11 @@ Austin, TX 78732 | ldjetton21@gmail.com | 512-758-3747
 
 - App built with JavaScript, MongoDB, Mongoose, Express.js, Node.js, HTML5/CSS3, Bootstrap, Passport API, and Paypal API.
 
-### **[Mavens and Mavericks](https://github.com/MavensAndMavericks/Mavens_and_Mavericks)** 
-- Full-Stack Developer in group of four. 
-
-- Full Stack social media app that pairs mentors and mentees together to foster growth and help individuals discern how their personal abilities can improve a company or impact an industry throughout their career. Matching is completed through sorting logic based on a user’s career level, industry experience, and coding languages of choice.
-
-- App built with Mongoose, Express, React, Node.js, Axios, JavaScript ES6, HTML5/CSS3, Bootstrap, Materialize
-
 ### **[Mavens and Mavericks](https://github.com/MavensAndMavericks/Mavens_and_Mavericks):** 
 >Full Stack social media app that pairs mentors and mentees together to foster growth and help individuals discern how their personal abilities can improve a company or impact an industry throughout their career. Matching is completed through sorting logic based on a user’s career level, industry experience, and coding languages of choice.
+
+>Full-Stack Developer in group of four. 
+
 >- Mongoose
 >- Express
 >- React
