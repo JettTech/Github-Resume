@@ -99,7 +99,7 @@ Austin, TX 78732
 
 - Received highest classification for annual performance evaluation in 2015 and 2016, measured by operations and security, client relations, work approach, and teamwork.
 
-- Quickly learned Federal banking regulations as well as Chase policies and procedures to ensure compliant and efficient banking transactions.
+- Quickly learned federal banking regulations as well as Chase policies and procedures to ensure compliant and efficient banking transactions.
 
 - Assisted with the branch cash inventory and shipments.
 
