@@ -2,7 +2,7 @@
 # **Lisa Jetton**
 ## **Full Stack Developer**
 
-Austin, TX 78732 | ldjetton21@gmail.com | 512-758-3747
+Austin, TX 78732 | Ldjetton21@gmail.com. | 512-758-3747
 
 [Portfolio](http://lisajetton.com) | [Github](https://github.com/JettTech/) | [LinkedIn](https://www.linkedin.com/in/lisa-jetton/)
 
@@ -18,18 +18,23 @@ Austin, TX 78732 | ldjetton21@gmail.com | 512-758-3747
 ### **[CMS Construction.Co](https://github.com/JettTech/cmsConstructionCart)**
 - Sole Developer. 
 
-- Full Stack Content Management System (CMS) application that simulates an online retail experience for a constrution company's adminstrators and clients. Allows users to shop inventory, select and add items to their cart, modify items in their cart, and utlimately purchase their items through the Paypal API. .
+- Full Stack Content Management System (CMS) application that simulates an online retail experience for a constrution company's adminstrators and clients. Allows users to shop inventory, select and add items to their cart, modify items in their cart, and utlimately purchase their items through the Paypal API.
 
 - App built with JavaScript, MongoDB, Mongoose, Express.js, Node.js, HTML5/CSS3, Bootstrap, Passport API, and Paypal API.
 
-- Full-Stack Developer in group of four. 
+### **[Mavens and Mavericks](https://github.com/MavensAndMavericks/Mavens_and_Mavericks)**
+- Full-Stack Developer in group of four.
+
+- Full Stack social media app that pairs mentors and mentees together to foster growth and help individuals discern how their personal abilities can improve a company or impact an industry throughout their career. Matching is completed through sorting logic based on a user’s career level, industry experience, and coding languages of choice.
+
+- App built with Mongoose, Express, React, Node.js, Axios, JavaScript ES6, HTML5/CSS3, Bootstrap, Materialize.
 
 ### **[Star Wars React](https://github.com/JettTech/React-Memory-Game/blob/master/README.md)**
 - Sole Developer. 
 
-- A memory game based in React. This game offers an assortment of pictures for the user to A memory game based in React. This game offers an assortment of pictures for the user to select; each time an image is selected, the arrangement of photos is reorganized. The goal is to click through the entire assortment of pictures without pressing the same picture twice. Can you do it? 
+- A memory game based in React. This game offers an assortment of pictures for the user to A memory game based in React. This game offers an assortment of pictures for the user to select; each time an image is selected, the arrangement of photos is reorganized. The goal is to click through the entire assortment of pictures without pressing the same picture twice.
 
-- App built with React, JavaScript, JSX, React-Materialize, Materialize
+- App built with React, JavaScript, JSX, React-Materialize, Materialize.
 
 - - - -
  ## Education: ##
