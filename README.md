@@ -40,7 +40,7 @@ Austin, TX 78732
 
 - Awarded the Full Stack Developer Certificate: MERN Stack
 
-- Experienced in JavaScript, jQuery, Node, Express, React, Handlebars, MySQL, MongoDB, Mongoose, AJAX, RESTful APIs, Security and Session Storage, HTML, CSS, Responsive Design, Boostrap, Materialize. 
+- Experienced in JavaScript, jQuery, Node, Express, React, Handlebars, MySQL, MongoDB, Mongoose, AJAX, RESTful APIs, Web Security and Session Storage, HTML, CSS, Responsive Design, Boostrap, Materialize. 
 
 - Familiar with Heroku deployement, Git Commands, and Github Repositories.
 
