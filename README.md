@@ -39,7 +39,7 @@ Austin, TX 78732 | Ldjetton21@gmail.com. | 512-758-3747
 - - - -
  ## Education: ##
 
-### **University of Texas at Austin:  July 2017 - January 2018**
+### **[University of Texas at Austin](https://professionaled.utexas.edu/coding-boot-camp-certificate-program):  July 2017 - January 2018**
 **Professional Coding Bootcamp**
 
 - Awarded the Full Stack Developer Certificate: MERN Stack
@@ -49,14 +49,14 @@ Austin, TX 78732 | Ldjetton21@gmail.com. | 512-758-3747
 - Familiar with Heroku deployement, Git Commands, and Github Repositories.
 
 
-### **University of California at Davis: September 2007 - September 2012**
+### **[University of California at Davis](https://ls.ucdavis.edu/): September 2007 - September 2012**
 **College of Letters and Science**
 
 - Double Major: B.A. International Relations, B.A. French Language and Literature 
 
 - Minor: Business Marketing for Textiles and Clothing.
 
-### **L’Institute d’Etudes Politiques: September 2009 - June 2010**
+### **[L’Institute d’Etudes Politiques](https://www.sciencespo-lyon.fr/accueil): September 2009 - June 2010**
 **International Law, Economy, and Politics**
 
 - Awarded the Political Science Certificate (Certificat d’Etudes Politiques)
