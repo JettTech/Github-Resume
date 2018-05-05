@@ -1,12 +1,10 @@
 - - - -
-<p align="center">
-     <h1>LISA JETTON</h1>
-</p>
-## **Full Stack Developer**
+# **LISA JETTON**
+**Full Stack Developer**
 
-[Portfolio](http://lisajetton.com) | [Github](https://github.com/JettTech/) | [LinkedIn](https://www.linkedin.com/in/lisa-jetton/)
+[Portfolio](http://lisajetton.com) | [Github](https://github.com/JettTech/) | [LinkedIn](https://www.linkedin.com/in/lisa-jetton/) | Ldjetton21@gmail.com
 
-Austin, TX 78732 | Ldjetton21@gmail.com | 512-758-3747
+Austin, TX 78732 
 
 >Full Stack Developer, experienced Personal Banker, and recent graduate from the University of Texas at Austin's Coding Bootcamp. Enjoys creative challenges, new ideas, and working together with passionate people to build new realities and develop dreams. 
 
