@@ -2,7 +2,6 @@
 # **Lisa Jetton**
 ## **Full Stack Developer**
 
-
 Austin, TX 78732 | ldjetton21@gmail.com | 512-758-3747
 
 [Portfolio](http://lisajetton.com) | [Github](https://github.com/JettTech/) | [LinkedIn](https://www.linkedin.com/in/lisa-jetton/)
