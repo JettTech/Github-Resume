@@ -85,12 +85,12 @@ Austin, TX 78732 | Ldjetton21@gmail.com | 512-758-3747
 - - - -
 ## **WORK HISTORY**
 
-### **JP Morgan Chase - Austin, TX: June 2016 - July 2017**
+### **[JP Morgan Chase](https://www.jpmorganchase.com/) - Austin, TX: June 2016 - July 2017**
 **Personal Banker - Consumer Banking**
 - Gathered personal data, evaluated customer needs, and delivered financial solutions that allowed the customer to bank with confidence and understanding.
 - Communiated with clients in English, French, and Spanish. 
 
-### **JP Morgan Chase - Austin, TX: March 2014 - June 2016**
+### **[JP Morgan Chase](https://www.jpmorganchase.com/) - Austin, TX: March 2014 - June 2016**
 **Senior Teller - Consumer Banking**
 - Quickly learned Federal banking regulations as well as Chase policies and procedures to ensure compliant and efficient banking transactions.
 - Assisted with translations in English, French, and Spanish. 
