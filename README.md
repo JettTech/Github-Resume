@@ -1,8 +1,18 @@
+- - - -
+- - - -
 # **Lisa Jetton**
-## **Software Engineer / JavaScript Developer**
+## **Full Stack Developer**
 
-Austin, TX 78732| 512-758-3747 | ldjetton21@gmail.com](ldjetton21@gmail.com) | [Portfolio](http://lisajetton.com) | [Github](https://github.com/JettTech/) | [LinkedIn](https://www.linkedin.com/in/lisa-jetton/)
+Austin, TX 78732| [ldjetton21@gmail.com](ldjetton21@gmail.com) | 512-758-3747
 
+[Portfolio](http://lisajetton.com) | [Github](https://github.com/JettTech/) | [LinkedIn](https://www.linkedin.com/in/lisa-jetton/)
+
+- - - -
+- - - -
+ ## About Me ##
+ 
+>Full Stack Developer, experienced Personal Banker, and recent graduate from the University of Texas at Austin's Coding Bootcamp. Enjoys creative challenges, new ideas, and working together with passionate people to build new realities and develop dreams. 
+- - - -
 - - - -
  ## Featured Applications: ##
  
@@ -11,42 +21,21 @@ Austin, TX 78732| 512-758-3747 | ldjetton21@gmail.com](ldjetton21@gmail.com) | [
 
 - Full Stack Content Management System (CMS) application that simulates an online retail experience for a constrution company's adminstrators and clients.
 
-- App built with:
->Mongoose
->Express
->Node.js
->Axios
->JavaScript
->HTML5/CSS3
->Bootstrap
+- App built with: Mongoose, Express, Node.js, Axios, JavaScript, HTML5/CSS3, Bootstrap
 
 **Mavens and Mavericks:** 
 - Full-Stack Developer in group of four. 
 
 - Full Stack social media app that pairs mentors and mentees together to foster growth and help individuals discern how their personal abilities can improve a company or impact an industry throughout their career. Matching is completed through sorting logic based on a user’s career level, industry experience, and coding languages of choice.
 
-- App built with:
->Mongoose
->Express
->React
->Node.js
->Axios
->JavaScript ES6
->HTML5/CSS3
->Bootstrap
->Materialize
+- App built with: Mongoose, Express, React, Node.js, Axios, JavaScript ES6, HTML5/CSS3, Bootstrap, Materialize
 
 **Star Wars React:**
 - Sole Developer. 
 
 - A memory game based in React. This game offers an assortment of pictures for the user to A memory game based in React. This game offers an assortment of pictures for the user to select; each time an image is selected, the arrangement of photos is reorganized. The goal is to click through the entire assortment of pictures without pressing the same picture twice. Can you do it? 
 
-- App built with:
->React
->JavaScript
->JSX
->React-Materialize
->Materialize
+- App built with React, JavaScript, JSX, React-Materialize, Materialize
 
 - - - -
  ## Education: ##
@@ -114,20 +103,20 @@ Austin, TX 78732| 512-758-3747 | ldjetton21@gmail.com](ldjetton21@gmail.com) | [
  
  - - - -
 ## Clubs, Languages, and International Experiernce ##
-- Club Memberships:
- >Women Who Code
- >Chicktech
- >Open Austin
+>Club Memberships:
+ - Women Who Code
+ - Chicktech
+ - Open Austin
  
-- Languages: 
- >English
- >French
- >Spanish
+>Languages: 
+ - English
+ - French
+ - Spanish
  
-- International Experience: 
- >Lived and studied in France for 3 years. 
- >Organized fundraisers to benefit orphans while in Chennai, India.  
- >Traveled throughout Morocco, Jordan, Israel, India, and across Europe.
+>International Experience: 
+ - Lived and studied in France for 3 years. 
+ - Organized fundraisers to benefit orphans while in Chennai, India.  
+ - Traveled throughout Morocco, Jordan, Israel, India, and across Europe.
   
  - - - -
 ## Awards Won ##
