@@ -72,7 +72,7 @@ Austin, TX 78732
 ### **[Women Who Code Diversity Hackathon](https://www.meetup.com/Women-Who-Code-Austin/events/242501507/) - Austin, TX: September 6 - 8, 2017**
 **Full Stack Developer and Winner of the Zoe Quinn Obstacles Overcome Award**
 
-- Developed Taco Quest, a React and Firebase App with a mission to help democratize rating of local taquerias by facilitating discovery and hosting game “challenges” to incentivize dining visits.
+- Developed Taco Quest, a React and Firebase App with a mission to help democratize rating of local taquerias by facilitating discovery and hosting game challenges to incentivize dining visits.
 
 - Built with React, JavaScript, Firebase and HTML5/CSS3.
 
