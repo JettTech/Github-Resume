@@ -87,15 +87,22 @@ Austin, TX 78732
 
 ### **[JP Morgan Chase](https://www.jpmorganchase.com/) - Austin, TX: June 2016 - July 2017**
 **Personal Banker - Consumer Banking**
-- Gathered personal data, evaluated customer needs, and delivered financial solutions that allowed the customer to bank with confidence and understanding.
-- Communiated with clients in English, French, and Spanish. 
+
+- Gathered personal data, identified customer needs, and coorinated solutions to customer pain points.
+
+- Managed senstive financial information, analyzed bank statements, and delivered financial service that allowed the customer to bank with confidence and understanding.
+
+- Communiated with clients in English, French, and Spanish.
 
 ### **[JP Morgan Chase](https://www.jpmorganchase.com/) - Austin, TX: March 2014 - June 2016**
 **Senior Teller - Consumer Banking**
+
+- Received highest classification for annual performance evaluation in 2015 and 2016, measured by operations and security, client relations, work approach, and teamwork.
+
 - Quickly learned Federal banking regulations as well as Chase policies and procedures to ensure compliant and efficient banking transactions.
-- Assisted with translations in English, French, and Spanish. 
-- Received highest classification for performance evaluation in 2015 and 2016 and promotion to Personal Banker.
- 
+
+- Assisted with the branch cash inventory and shipments.
+
  - - - -
 ## CLUBS, LANGUAGES, AND INTERNATIONAL EXPERIENCE ##
 Club Memberships:
