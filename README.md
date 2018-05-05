@@ -1,10 +1,10 @@
 - - - -
 # **LISA JETTON**
-**Full Stack Developer**
-
-[Portfolio](http://lisajetton.com) | [Github](https://github.com/JettTech/) | [LinkedIn](https://www.linkedin.com/in/lisa-jetton/) | Ldjetton21@gmail.com
+## **Full Stack Developer**
 
 Austin, TX 78732 
+
+[Portfolio](http://lisajetton.com) | [Github](https://github.com/JettTech/) | [LinkedIn](https://www.linkedin.com/in/lisa-jetton/) | Ldjetton21@gmail.com
 
 >Full Stack Developer, experienced Personal Banker, and recent graduate from the University of Texas at Austin's Coding Bootcamp. Enjoys creative challenges, new ideas, and working together with passionate people to build new realities and develop dreams. 
 
