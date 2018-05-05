@@ -1,6 +1,6 @@
 - - - -
 - - - -
-->Lisa Jetton<-
+### **Lisa Jetton** ###
 ## **Full Stack Developer**
 - - - -
 
@@ -10,7 +10,7 @@ Austin, TX 78732 | ldjetton21@gmail.com | 512-758-3747
 
 - - - -
 - - - -
- ## About Me ##
+ ## About Me: ##
  
 >Full Stack Developer, experienced Personal Banker, and recent graduate from the University of Texas at Austin's Coding Bootcamp. Enjoys creative challenges, new ideas, and working together with passionate people to build new realities and develop dreams. 
 
