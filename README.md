@@ -90,9 +90,9 @@ Austin, TX 78732
 
 - Gathered personal data, identified customer needs, and coorinated solutions to customer pain points.
 
-- Managed senstive financial information, analyzed bank statements, and delivered financial service that allowed the customer to bank with confidence and understanding.
+- Managed sensitive financial information, analyzed bank statements, and delivered financial service that allowed the customer to bank with confidence and understanding.
 
-- Communiated with clients in English, French, and Spanish.
+- Communicated with clients in English, French, and Spanish.
 
 ### **[JP Morgan Chase](https://www.jpmorganchase.com/) - Austin, TX: March 2014 - June 2016**
 **Senior Teller - Consumer Banking**
