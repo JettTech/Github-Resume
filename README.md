@@ -9,7 +9,7 @@ Austin, TX 78732 | Ldjetton21@gmail.com | 512-758-3747
 >Full Stack Developer, experienced Personal Banker, and recent graduate from the University of Texas at Austin's Coding Bootcamp. Enjoys creative challenges, new ideas, and working together with passionate people to build new realities and develop dreams. 
 
 - - - -
- ## Featured Applications: ##
+ ## FEATURED APPLICATIONS ##
  
 ### **[CMS Construction.Co](https://github.com/JettTech/cmsConstructionCart)**
 - Sole Developer. 
@@ -33,7 +33,7 @@ Austin, TX 78732 | Ldjetton21@gmail.com | 512-758-3747
 - App built with React, JavaScript, JSX, React-Materialize, Materialize.
 
 - - - -
- ## Education: ##
+ ## EDUCATION ##
 
 ### **[University of Texas at Austin](https://professionaled.utexas.edu/coding-boot-camp-certificate-program):  July 2017 - January 2018**
 **Professional Coding Bootcamp**
@@ -58,7 +58,7 @@ Austin, TX 78732 | Ldjetton21@gmail.com | 512-758-3747
 - Awarded the Political Science Certificate (Certificat d’Etudes Politiques)
 
 - - - -
-## **Relevant Experience**
+## **RELEVANT EXPERIENCE**
 
 ### **[3P Hackathon by McCombs School of Business](https://tx3phack.splashthat.com/) - Austin, TX: February 16 - 17, 2018**
 **Front-End Web Developer**
@@ -83,7 +83,7 @@ Austin, TX 78732 | Ldjetton21@gmail.com | 512-758-3747
 - Developed a ten-minute DVD presentation as a creative solution for Sangita’s digital marketing goals in 2006.  This presentation was used to gain support at international conferences for two years.
 
 - - - -
-## **Work History**
+## **WORK HISTORY**
 
 ### **JP Morgan Chase - Austin, TX: June 2016 - July 2017**
 **Personal Banker - Consumer Banking**
@@ -97,7 +97,7 @@ Austin, TX 78732 | Ldjetton21@gmail.com | 512-758-3747
 - Received highest classification for performance evaluation in 2015 and 2016 and promotion to Personal Banker.
  
  - - - -
-## Clubs, Languages, and International Experiernce ##
+## CLUBS, LANGUAGES, AND INTERNATIONAL EXPERIENCE ##
 Club Memberships:
  >- Women Who Code
  >- Chicktech
@@ -114,5 +114,5 @@ International Experience:
  >- Traveled throughout Morocco, Jordan, Israel, India, and across Europe.
   
  - - - -
-## Awards Won ##
+## AWARDS WON ##
 - Zoe Quinn Award: Presented by Women Who Code at the 3rd Anuual Diversity Hackathon.
