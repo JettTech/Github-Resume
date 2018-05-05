@@ -88,7 +88,7 @@ Austin, TX 78732
 ### **[JP Morgan Chase](https://www.jpmorganchase.com/) - Austin, TX: June 2016 - July 2017**
 **Personal Banker - Consumer Banking**
 
-- Gathered personal data, identified customer needs, and coorinated solutions to customer pain points.
+- Gathered personal data, identified customer needs, and coordinated solutions to customer pain points.
 
 - Managed sensitive financial information, analyzed bank statements, and delivered financial service that allowed the customer to bank with confidence and understanding.
 
