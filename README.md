@@ -1,22 +1,9 @@
 - - - -
 - - - -
-<p align="center">
-  <h1>Lisa Jetton</h1>
-</p>
-
+->**Lisa Jetton**<-
 ## **Full Stack Developer**
 
-<p align="center">
-  <br>
-  <p>Austin, TX 78732</p> |
-  <p>ldjetton21@gmail.com</p> |
-  <p">512-758-3747</p>
-  
-  <br>
-  <a href="http://lisajetton.com">Portfolio</a> |
-  <a href="https://github.com/JettTech/">Github</a> |
-  <a href="https://www.linkedin.com/in/lisa-jetton">Linkedin</a>
-</p>
+Austin, TX 78732 | ldjetton21@gmail.com | 512-758-3747
 
 [Portfolio](http://lisajetton.com) | [Github](https://github.com/JettTech/) | [LinkedIn](https://www.linkedin.com/in/lisa-jetton/)
 
@@ -116,20 +103,20 @@
  
  - - - -
 ## Clubs, Languages, and International Experiernce ##
-+ Club Memberships:
- - Women Who Code
- - Chicktech
- - Open Austin
+>Club Memberships:
+ >- Women Who Code
+ >- Chicktech
+ >- Open Austin
  
-+ Languages: 
- - English
- - French
- - Spanish
+>Languages: 
+ >- English
+ >- French
+ >- Spanish
  
-+ International Experience: 
- - Lived and studied in France for 3 years. 
- - Organized fundraisers to benefit orphans while in Chennai, India.  
- - Traveled throughout Morocco, Jordan, Israel, India, and across Europe.
+> International Experience: 
+ >- Lived and studied in France for 3 years. 
+ >- Organized fundraisers to benefit orphans while in Chennai, India.  
+ >- Traveled throughout Morocco, Jordan, Israel, India, and across Europe.
   
  - - - -
 ## Awards Won ##
