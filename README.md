@@ -16,21 +16,21 @@ Austin, TX 78732 | ldjetton21@gmail.com | 512-758-3747
 - - - -
  ## Featured Applications: ##
  
-**CMS Construction.Co** 
+### **CMS Construction.Co**
 - Sole Developer. 
 
 - Full Stack Content Management System (CMS) application that simulates an online retail experience for a constrution company's adminstrators and clients.
 
 - App built with: Mongoose, Express, Node.js, Axios, JavaScript, HTML5/CSS3, Bootstrap
 
-**Mavens and Mavericks:** 
+### **Mavens and Mavericks** 
 - Full-Stack Developer in group of four. 
 
 - Full Stack social media app that pairs mentors and mentees together to foster growth and help individuals discern how their personal abilities can improve a company or impact an industry throughout their career. Matching is completed through sorting logic based on a user’s career level, industry experience, and coding languages of choice.
 
 - App built with: Mongoose, Express, React, Node.js, Axios, JavaScript ES6, HTML5/CSS3, Bootstrap, Materialize
 
-**Star Wars React:**
+### **Star Wars React**
 - Sole Developer. 
 
 - A memory game based in React. This game offers an assortment of pictures for the user to A memory game based in React. This game offers an assortment of pictures for the user to select; each time an image is selected, the arrangement of photos is reorganized. The goal is to click through the entire assortment of pictures without pressing the same picture twice. Can you do it? 
@@ -92,14 +92,14 @@ Austin, TX 78732 | ldjetton21@gmail.com | 512-758-3747
 
 ### **JP Morgan Chase - Austin, TX: June 2016 - July 2017**
 **Personal Banker - Consumer Banking**
->- Gathered personal data, evaluated customer needs, and delivered financial solutions that allowed the customer to bank with confidence and understanding.
->- Communiated with clients in English, French, and Spanish. 
+- Gathered personal data, evaluated customer needs, and delivered financial solutions that allowed the customer to bank with confidence and understanding.
+- Communiated with clients in English, French, and Spanish. 
 
 ### **JP Morgan Chase - Austin, TX: March 2014 - June 2016**
 **Senior Teller - Consumer Banking**
->- Quickly learned Federal banking regulations as well as Chase policies and procedures to ensure compliant and efficient banking transactions.
->- Assisted with translations in English, French, and Spanish. 
->- Received highest classification for performance evaluation in 2015 and 2016 and promotion to Personal Banker.
+- Quickly learned Federal banking regulations as well as Chase policies and procedures to ensure compliant and efficient banking transactions.
+- Assisted with translations in English, French, and Spanish. 
+- Received highest classification for performance evaluation in 2015 and 2016 and promotion to Personal Banker.
  
  - - - -
 ## Clubs, Languages, and International Experiernce ##
