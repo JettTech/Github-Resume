@@ -22,19 +22,7 @@ Austin, TX 78732 | ldjetton21@gmail.com | 512-758-3747
 
 - App built with JavaScript, MongoDB, Mongoose, Express.js, Node.js, HTML5/CSS3, Bootstrap, Passport API, and Paypal API.
 
-### **[Mavens and Mavericks](https://github.com/MavensAndMavericks/Mavens_and_Mavericks):** 
->Full Stack social media app that pairs mentors and mentees together to foster growth and help individuals discern how their personal abilities can improve a company or impact an industry throughout their career. Matching is completed through sorting logic based on a user’s career level, industry experience, and coding languages of choice.
-
->Full-Stack Developer in group of four. 
-
->- Mongoose
->- Express
->- React
->- Node.js
->- Axios
->- JavaScript ES6
->- Bootstrap
->- Materialize
+- Full-Stack Developer in group of four. 
 
 ### **[Star Wars React](https://github.com/JettTech/React-Memory-Game/blob/master/README.md)**
 - Sole Developer. 
@@ -71,7 +59,7 @@ Austin, TX 78732 | ldjetton21@gmail.com | 512-758-3747
 - - - -
 ## **Relevant Experience**
 
-### **3P Hackathon by McCombs School of Business - Austin, TX: February 16 - 17, 2018**
+### **[3P Hackathon by McCombs School of Business](https://tx3phack.splashthat.com/) - Austin, TX: February 16 - 17, 2018**
 **Front-End Web Developer**
 
 - Developed Green Building, an interactive App that aims to encourage awareness of the Austin Energy Green Building Organization and its impact on local and global living, as well as support challenges that incentive self-reporting of energy use data.
@@ -80,7 +68,7 @@ Austin, TX 78732 | ldjetton21@gmail.com | 512-758-3747
 
 - Front-End Web Developer in a group of three Developers.
 
-### **Women Who Code Diversity Hackathon - Austin, TX: September 6 - 8, 2017**
+### **[Women Who Code Diversity Hackathon](https://www.meetup.com/Women-Who-Code-Austin/events/242501507/) - Austin, TX: September 6 - 8, 2017**
 **Full Stack Developer and Winner of the Zoe Quinn Obstacles Overcome Award**
 
 - Developed Taco Quest, a React and Firebase App with a mission to help democratize rating of local taquerias by facilitating discovery and hosting game “challenges” to incentivize dining visits.
@@ -89,7 +77,7 @@ Austin, TX 78732 | ldjetton21@gmail.com | 512-758-3747
 
 - Full-Stack Web Developer in a group of four Developers.
 
-### **Sangita Charitable Trust - Chennai, India: January - April, 2006**
+### **[Sangita Charitable Trust](http://www.sangitacharitabletrust.com/) - Chennai, India: January - April, 2006**
 **Publicity Assitant**
 - Developed a ten-minute DVD presentation as a creative solution for Sangita’s digital marketing goals in 2006.  This presentation was used to gain support at international conferences for two years.
 
@@ -109,17 +97,17 @@ Austin, TX 78732 | ldjetton21@gmail.com | 512-758-3747
  
  - - - -
 ## Clubs, Languages, and International Experiernce ##
-- Club Memberships:
+>Club Memberships:
  >- Women Who Code
  >- Chicktech
  >- Open Austin
  
-- Languages: 
+>Languages: 
  >- English
  >- French
  >- Spanish
  
-- International Experience: 
+>International Experience: 
  >- Lived and studied in France for 3 years. 
  >- Organized fundraisers to benefit orphans while in Chennai, India.  
  >- Traveled throughout Morocco, Jordan, Israel, India, and across Europe.
