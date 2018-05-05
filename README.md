@@ -1,6 +1,6 @@
 - - - -
 # **LISA JETTON**
-### **Full Stack Developer**
+### **Full Stack Developer | Software Engineer**
 
 Austin, TX 78732 
 
