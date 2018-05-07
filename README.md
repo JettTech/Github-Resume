@@ -63,7 +63,7 @@ Austin, TX 78732
 ### **[3P Hackathon by McCombs School of Business](https://tx3phack.splashthat.com/) - Austin, TX: February 16 - 17, 2018**
 **Front-End Web Developer**
 
-- Developed Green Building, an interactive App that aims to encourage awareness of the Austin Energy Green Building Organization and its impact on local and global living, as well as support challenges that incentive self-reporting of energy use data.
+- Developed Green Building, an interactive App that aims to encourage awareness of the Austin Energy Green Building Organization and its impact on local and global living as well as support challenges that incentive self-reporting of energy use data.
 
 - Built with JavaScript, Node, Express.js, Bootstrap, and HTML5/CSS3.
 
