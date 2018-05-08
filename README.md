@@ -16,7 +16,7 @@ Austin, TX 78732
 
 - Full Stack Content Management System (CMS) application that simulates an online retail experience for a constrution company's adminstrators and clients. Provides administrators with options to modify inventory and web-page display, and allows users to shop inventory, select and add items to their cart, modify items in their cart, and utlimately purchase their items through Paypal.
 
-- App built with JavaScript, MongoDB, Mongoose, Express.js, Node.js, EJS, HTML5/CSS3, Bootstrap, CKEditor, Passport API, and Paypal API.
+- App built with JavaScript, MongoDB, Mongoose, EJS, Express.js, Node.js, HTML5/CSS3, Bootstrap, CKEditor, Passport API, and Paypal API.
 
 ### **[Mavens and Mavericks](https://github.com/MavensAndMavericks/Mavens_and_Mavericks)**
 - Full-Stack Developer in group of four.
